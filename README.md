@@ -11,7 +11,7 @@ Further Aspects of this Repository are:
 
 The intersection between this Repository and the [Gearbox](https://github.com/HoChiak/Gearbox/) Repository is shown in the following picture.
 
-<img src="https://https://github.com/HoChiak/Gearbox-Environment/blob/master/GearboxEnvironment.png" width="60%">
+<img src="https://github.com/HoChiak/Gearbox-Environment/blob/master/GearboxEnvironment.png" width="60%">
 
 # Setting up
 
@@ -116,7 +116,7 @@ gearbox = Gearbox(rotational_frequency_in,
 
 Besides the agent there are three other modules (Interpreter, Vibration2State, Action2Torque) which will be defined in the following.
 
-<img src="https://https://github.com/HoChiak/Gearbox-Environment/blob/master/GearboxEnvironment.png" width="60%">
+<img src="https://github.com/HoChiak/Gearbox-Environment/blob/master/GearboxEnvironment.png" width="60%">
 
 Load Modules
 
