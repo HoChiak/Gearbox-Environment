@@ -23,13 +23,9 @@ Install the following packages and their dependencies:
 
 `pip install numpy >= 1.17`
 
-`pip install keras-rl`
-
-(The exact Anaconda Environment is defined in AnacondaRepoExplicit.txt)
-
-
 Install `stable-baselines` with respect to [Guideline](https://stable-baselines.readthedocs.io/en/master/guide/install.html#prerequisites)
 
+(The exact Anaconda Environment is defined in AnacondaRepoExplicit.txt)
 
 Building an GYM Environment based on the original toolbox follows the explanations given in [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/index.html) and [[1]](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/), [[2]](https://gym.openai.com/), [[3]](https://www.novatec-gmbh.de/en/blog/creating-a-gym-environment/), [[4]](https://ai-mrkogao.github.io/reinforcement%20learning/openaigymtutorial/), [[5]](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa) [[6]](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e)
 
